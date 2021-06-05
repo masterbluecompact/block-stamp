@@ -1,0 +1,4 @@
+node_modules/
+
+# npm pack tarball
+*.tgz
