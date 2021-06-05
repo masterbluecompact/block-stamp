@@ -1,6 +1,6 @@
 {
   "name": "@t0mcr8se/blockstamp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "",
   "main": "dist/index.js",
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/masterbluecompact/block-stamp.git"
   },
-  "keywords": [],
+  "keywords": ["block", "blockchain", "timestamp", "web3"],
   "author": "",
   "license": "MIT",
   "bugs": {
