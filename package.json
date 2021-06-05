@@ -1,6 +1,7 @@
 {
-  "name": "block-stamp",
+  "name": "@t0mcr8se/blockstamp",
   "version": "1.0.0",
+  "private": false,
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
